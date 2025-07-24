@@ -68,12 +68,6 @@ A well-trained model should produce points clustered along a diagonal.
 
 ---
 
-## Project Structure
-├── main.py # (or) generate_dataset.py + train_model.py
-├── data_set.npz # Generated dataset
-
----
-
 ## Requirements
 
 - Python 3.10
